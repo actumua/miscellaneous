@@ -9,8 +9,8 @@ Dưới đây là tổng hợp các file mẹo vặt, giúp ích cho bạn trong
 	+ AutoHotkey.ahk (file mã nguồn, bạn có thể edit lại phím tắt tuỳ thích)
 	+ killgta.bat (chỉ khi GTA SAN chạy với quyền admin)
 
-Không có quyền admin, bạn sửa toàn bộ file `killgta.bat` thành:
+- Không có quyền admin, bạn sửa toàn bộ file `killgta.bat` thành:
 
 taskkill /F /IM "gta_sa.exe" /T
 
-Liên hệ facebook của mình nếu bạn có thắc mắc: fb.me/kophaitin
+- Liên hệ facebook của mình nếu bạn có thắc mắc: fb.me/kophaitin
